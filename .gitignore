@@ -1,0 +1,15 @@
+
+*.docx
+*.xlsx
+*.pdf
+*.zip
+*.pyc
+.ipynb_checkpoints/BCI-checkpoint.ipynb
+.ipynb_checkpoints/BCI_new-checkpoint.ipynb
+.ipynb_checkpoints/EFFNet-checkpoint.ipynb
+.ipynb_checkpoints/Left_hand_vs_Right_hand-checkpoint.ipynb
+.ipynb_checkpoints/plot_decoding_csp_eeg-checkpoint.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/ResNet-checkpoint.ipynb
+Datasets/EEG Motor MovementImagery Dataset/dataset/debug.log
+debug.log
